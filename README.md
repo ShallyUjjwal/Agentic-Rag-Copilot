@@ -85,6 +85,5 @@ LangGraph Agent
 ```
 
 ## Project
+<img width="1856" height="922" alt="image" src="https://github.com/user-attachments/assets/bd47acb9-05be-4b62-870a-b10d4e0f6bac" />
 
-**HR Policy Copilot**
-Product × Data × AI
